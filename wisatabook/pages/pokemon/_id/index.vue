@@ -102,6 +102,12 @@
               </v-btn>
             </div>
 
+             <v-btn color="red" class="mb-5">
+               <NuxtLink to="/" style="color: white">
+                 Back Home
+               </NuxtLink>
+            </v-btn>
+
           </v-card>
         </v-col>
       </v-row>
